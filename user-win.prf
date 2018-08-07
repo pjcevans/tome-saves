@@ -1,0 +1,810 @@
+
+
+# Feature attr/char definitions
+
+# nothing
+F:0:0x01:0x20
+
+# open floor
+F:1:0x01:0x2E
+
+# fountain
+F:2:0x01:0x5F
+
+# glyph of warding
+F:3:0x0B:0x3B
+
+# open door
+F:4:0x0F:0x27
+
+# broken door
+F:5:0x0F:0x27
+
+# up staircase
+F:6:0x01:0x3C
+
+# down staircase
+F:7:0x01:0x3E
+
+# quest entrance
+F:8:0x0B:0x3E
+
+# quest exit
+F:9:0x0B:0x3C
+
+# quest down level
+F:10:0x04:0x3E
+
+# quest up level
+F:11:0x04:0x3C
+
+# town exit
+F:12:0x05:0x3E
+
+# shaft down
+F:13:0x0F:0x3E
+
+# shaft up
+F:14:0x0F:0x3C
+
+# fountain
+F:15:0x08:0x5F
+
+# web
+F:16:0x0B:0x2B
+
+# trap
+F:17:0x01:0x5E
+
+# door
+F:32:0x0F:0x2B
+
+# locked door
+F:33:0x0F:0x2B
+
+# locked door
+F:34:0x0F:0x2B
+
+# locked door
+F:35:0x0F:0x2B
+
+# locked door
+F:36:0x0F:0x2B
+
+# locked door
+F:37:0x0F:0x2B
+
+# locked door
+F:38:0x0F:0x2B
+
+# locked door
+F:39:0x0F:0x2B
+
+# jammed door
+F:40:0x0F:0x2B
+
+# jammed door
+F:41:0x0F:0x2B
+
+# jammed door
+F:42:0x0F:0x2B
+
+# jammed door
+F:43:0x0F:0x2B
+
+# jammed door
+F:44:0x0F:0x2B
+
+# jammed door
+F:45:0x0F:0x2B
+
+# jammed door
+F:46:0x0F:0x2B
+
+# jammed door
+F:47:0x0F:0x2B
+
+# secret door
+F:48:0x01:0x23
+
+# pile of rubble
+F:49:0x01:0x3A
+
+# magma vein
+F:50:0x02:0x25
+
+# quartz vein
+F:51:0x01:0x25
+
+# magma vein
+F:52:0x02:0x25
+
+# quartz vein
+F:53:0x01:0x25
+
+# magma vein with treasure
+F:54:0x03:0x2A
+
+# quartz vein with treasure
+F:55:0x03:0x2A
+
+# granite wall
+F:56:0x01:0x23
+
+# granite wall
+F:57:0x01:0x23
+
+# granite wall
+F:58:0x01:0x23
+
+# granite wall
+F:59:0x01:0x23
+
+# permanent wall
+F:60:0x01:0x23
+
+# permanent wall
+F:61:0x01:0x23
+
+# permanent wall
+F:62:0x01:0x23
+
+# permanent wall
+F:63:0x01:0x23
+
+# explosive rune
+F:64:0x0C:0x2A
+
+# Straight Road startpoint
+F:65:0x01:0x2A
+
+# section of the Straight Road
+F:66:0x0E:0x2A
+
+# section of the Straight Road
+F:67:0x06:0x2A
+
+# section of the Straight Road
+F:68:0x0E:0x2A
+
+# section of the Straight Road
+F:69:0x06:0x2A
+
+# section of the Straight Road
+F:70:0x09:0x2A
+
+# section of the Straight Road (discharged)
+F:71:0x09:0x2A
+
+# Straight Road exit
+F:72:0x01:0x2A
+
+# corrupted section of the Straight Road
+F:73:0x08:0x2A
+
+# Building
+F:74:0x0F:0x31
+
+# permanent wall
+F:75:0x01:0x23
+
+# permanent wall
+F:76:0x01:0x23
+
+# permanent wall
+F:77:0x01:0x23
+
+# permanent wall
+F:78:0x01:0x23
+
+# grass with Elanor flowers
+F:79:0x0B:0x26
+
+# grass with Fumella flowers
+F:80:0x04:0x3B
+
+# grass with anemones
+F:81:0x0A:0x3B
+
+# grass with Niphredil flowers
+F:82:0x01:0x3B
+
+# grass with irises
+F:83:0x06:0x3B
+
+# stream of shallow water
+F:84:0x0E:0x7E
+
+# pool of deep lava
+F:85:0x0C:0x2E
+
+# stream of shallow lava
+F:86:0x04:0x2E
+
+# dark pit
+F:87:0x08:0x23
+
+# dirt
+F:88:0x0F:0x2E
+
+# patch of grass
+F:89:0x0D:0x2E
+
+# ice
+F:90:0x09:0x2E
+
+# sand
+F:91:0x0B:0x2E
+
+# dead tree
+F:92:0x08:0x23
+
+# ash
+F:93:0x02:0x2E
+
+# puddle of mud
+F:94:0x07:0x2E
+
+# ice wall
+F:95:0x09:0x23
+
+# tree
+F:96:0x0D:0x23
+
+# mountain chain
+F:97:0x0F:0x5E
+
+# sandwall
+F:98:0x0B:0x23
+
+# sandwall
+F:99:0x0B:0x25
+
+# sandwall with treasure
+F:100:0x03:0x2A
+
+# high mountain chain
+F:101:0x09:0x5E
+
+# nether mist
+F:102:0x0A:0x2E
+
+# molten glass wall
+F:103:0x0E:0x2E
+
+# Void Jumpgate
+F:159:0x0A:0x2B
+
+# Void Jumpgate
+F:160:0x0A:0x2B
+
+# Altar of Being
+F:161:0x09:0x30
+
+# Altar of Winds
+F:162:0x0E:0x30
+
+# Altar of Force
+F:163:0x0C:0x30
+
+# Altar of Darkness
+F:164:0x08:0x30
+
+# Altar of Nature
+F:165:0x05:0x30
+
+# Altar of Stone
+F:166:0x02:0x30
+
+# Altar of Light
+F:167:0x0B:0x30
+
+# Altar of Waters
+F:168:0x06:0x30
+
+# Altar of Doom
+F:169:0x03:0x30
+
+# open floor
+F:172:0x01:0x2E
+
+# Underground Tunnel
+F:173:0x02:0x23
+
+# stream of tainted water
+F:174:0x07:0x7E
+
+# monster trap
+F:175:0x0A:0x3B
+
+# Void Jumpgate
+F:176:0x0A:0x2B
+
+# lava wall
+F:177:0x0C:0x23
+
+# Great Fire
+F:178:0x0A:0x25
+
+# path to the next area
+F:179:0x01:0x3E
+
+# path to the previous area
+F:180:0x01:0x3C
+
+# field
+F:181:0x05:0x3A
+
+# Ekkaia, the Encircling Sea
+F:182:0x06:0x2A
+
+# void
+F:183:0x00:0x20
+
+# pool of deep water
+F:187:0x06:0x7E
+
+# glass wall
+F:188:0x0E:0x2E
+
+# illusion wall
+F:189:0x01:0x23
+
+# Grass roof
+F:190:0x0B:0x23
+
+# grass roof top
+F:191:0x0B:0x23
+
+# grass roof chimney
+F:192:0x0B:0x23
+
+# brick roof
+F:193:0x04:0x23
+
+# brick roof top
+F:194:0x04:0x23
+
+# brick roof chimney
+F:195:0x04:0x23
+
+# window
+F:196:0x01:0x23
+
+# small window
+F:197:0x01:0x23
+
+# rain barrel
+F:198:0x01:0x23
+
+# grass with Kingsfoil flowers
+F:199:0x0D:0x3B
+
+# cobblestone road
+F:200:0x01:0x2E
+
+# cobblestone with outlet
+F:201:0x01:0x2E
+
+# small tree
+F:202:0x05:0x23
+
+# town
+F:203:0x01:0x2A
+
+# Underground Tunnel
+F:204:0x0F:0x5E
+
+# a blazing fire
+F:205:0x0B:0x25
+
+# pile of rubble
+F:206:0x01:0x3A
+
+# rocky ground
+F:207:0x02:0x2E
+
+# cloud-like vapour
+F:208:0x09:0x2E
+
+# condensing water
+F:209:0x0E:0x7E
+
+# dense mist
+F:210:0x01:0x23
+
+# hail-stone wall
+F:211:0x09:0x23
+
+# dead small tree
+F:212:0x08:0x23
+
+# low hill
+F:213:0x05:0x5E
+
+# dark mountain chain
+F:214:0x08:0x5E
+
+# blue mountain chain
+F:215:0x0E:0x5E
+
+# grey mountain chain
+F:216:0x02:0x5E
+
+# part of Mount Doom
+F:217:0x0C:0x5E
+
+# snow-capped peak
+F:218:0x01:0x5E
+
+# fir tree
+F:219:0x05:0x23
+
+# section of a flet
+F:220:0x07:0x5F
+
+# light post
+F:221:0x01:0x7C
+
+# water lily
+F:222:0x0E:0x3B
+
+# part of the Dead Marshes
+F:223:0x0D:0x7E
+
+# Black Gate
+F:224:0x08:0x2B
+
+# river
+F:225:0x01:0x7E
+
+# swamp pool
+F:226:0x05:0x7E
+
+# stream of the Anduin river
+F:227:0x0E:0x7E
+
+# road sign that says 'Find Gondolin!'
+F:228:0x0A:0x3F
+
+# beehive
+F:229:0x03:0x2A
+
+# dirt road
+F:230:0x0F:0x2E
+
+# wide gate
+F:231:0x08:0x2D
+
+# open gate
+F:232:0x08:0x27
+
+# wooden board
+F:233:0x07:0x2D
+
+# wooden board
+F:234:0x07:0x7C
+
+# wooden board
+F:235:0x0F:0x2D
+
+# wooden board
+F:236:0x0F:0x7C
+
+# white tree
+F:237:0x01:0x23
+
+# swift waterfall
+F:238:0x0E:0x7C
+
+# slippery rock ledge
+F:239:0x02:0x26
+
+# stable
+F:240:0x07:0x23
+
+# wooden plank
+F:241:0x0F:0x25
+
+# fosse pit
+F:242:0x05:0x26
+
+# Mallorn
+F:243:0x0B:0x2A
+
+# copper pillar
+F:244:0x07:0x23
+
+# ethereal wall
+F:245:0x01:0x2E
+
+# glacial wall
+F:246:0x0E:0x23
+
+# battlement
+F:247:0x01:0x23
+
+# door of Orthanc
+F:248:0x04:0x27
+
+Y:center_player
+
+# Window 'Mirror', Flag 'Display inven/equip'
+W:1:0:1
+
+# Window 'Mirror', Flag 'Display equip/inven'
+W:1:1:0
+
+# Window 'Mirror', Flag 'Display character'
+W:1:3:0
+
+# Window 'Mirror', Flag 'Show visible monsters'
+W:1:4:0
+
+# Window 'Mirror', Flag 'Display messages'
+W:1:6:0
+
+# Window 'Mirror', Flag 'Display overhead view'
+W:1:7:0
+
+# Window 'Mirror', Flag 'Display monster recall'
+W:1:8:0
+
+# Window 'Mirror', Flag 'Display object recall'
+W:1:9:1
+
+# Window 'Mirror', Flag 'Display snap-shot'
+W:1:11:0
+
+# Window 'Mirror', Flag 'Display borg messages'
+W:1:14:0
+
+# Window 'Mirror', Flag 'Display borg status'
+W:1:15:0
+
+# Window 'Recall', Flag 'Display inven/equip'
+W:2:0:0
+
+# Window 'Recall', Flag 'Display equip/inven'
+W:2:1:0
+
+# Window 'Recall', Flag 'Display character'
+W:2:3:1
+
+# Window 'Recall', Flag 'Show visible monsters'
+W:2:4:0
+
+# Window 'Recall', Flag 'Display messages'
+W:2:6:0
+
+# Window 'Recall', Flag 'Display overhead view'
+W:2:7:0
+
+# Window 'Recall', Flag 'Display monster recall'
+W:2:8:0
+
+# Window 'Recall', Flag 'Display object recall'
+W:2:9:0
+
+# Window 'Recall', Flag 'Display snap-shot'
+W:2:11:0
+
+# Window 'Recall', Flag 'Display borg messages'
+W:2:14:0
+
+# Window 'Recall', Flag 'Display borg status'
+W:2:15:0
+
+# Window 'Choice', Flag 'Display inven/equip'
+W:3:0:0
+
+# Window 'Choice', Flag 'Display equip/inven'
+W:3:1:1
+
+# Window 'Choice', Flag 'Display character'
+W:3:3:0
+
+# Window 'Choice', Flag 'Show visible monsters'
+W:3:4:0
+
+# Window 'Choice', Flag 'Display messages'
+W:3:6:0
+
+# Window 'Choice', Flag 'Display overhead view'
+W:3:7:0
+
+# Window 'Choice', Flag 'Display monster recall'
+W:3:8:0
+
+# Window 'Choice', Flag 'Display object recall'
+W:3:9:0
+
+# Window 'Choice', Flag 'Display snap-shot'
+W:3:11:0
+
+# Window 'Choice', Flag 'Display borg messages'
+W:3:14:0
+
+# Window 'Choice', Flag 'Display borg status'
+W:3:15:0
+
+# Window 'Term-4', Flag 'Display inven/equip'
+W:4:0:0
+
+# Window 'Term-4', Flag 'Display equip/inven'
+W:4:1:0
+
+# Window 'Term-4', Flag 'Display character'
+W:4:3:0
+
+# Window 'Term-4', Flag 'Show visible monsters'
+W:4:4:1
+
+# Window 'Term-4', Flag 'Display messages'
+W:4:6:0
+
+# Window 'Term-4', Flag 'Display overhead view'
+W:4:7:0
+
+# Window 'Term-4', Flag 'Display monster recall'
+W:4:8:1
+
+# Window 'Term-4', Flag 'Display object recall'
+W:4:9:0
+
+# Window 'Term-4', Flag 'Display snap-shot'
+W:4:11:0
+
+# Window 'Term-4', Flag 'Display borg messages'
+W:4:14:0
+
+# Window 'Term-4', Flag 'Display borg status'
+W:4:15:0
+
+# Window 'Term-5', Flag 'Display inven/equip'
+W:5:0:0
+
+# Window 'Term-5', Flag 'Display equip/inven'
+W:5:1:0
+
+# Window 'Term-5', Flag 'Display character'
+W:5:3:0
+
+# Window 'Term-5', Flag 'Show visible monsters'
+W:5:4:0
+
+# Window 'Term-5', Flag 'Display messages'
+W:5:6:1
+
+# Window 'Term-5', Flag 'Display overhead view'
+W:5:7:0
+
+# Window 'Term-5', Flag 'Display monster recall'
+W:5:8:0
+
+# Window 'Term-5', Flag 'Display object recall'
+W:5:9:0
+
+# Window 'Term-5', Flag 'Display snap-shot'
+W:5:11:0
+
+# Window 'Term-5', Flag 'Display borg messages'
+W:5:14:0
+
+# Window 'Term-5', Flag 'Display borg status'
+W:5:15:0
+
+# Window 'Term-6', Flag 'Display inven/equip'
+W:6:0:0
+
+# Window 'Term-6', Flag 'Display equip/inven'
+W:6:1:0
+
+# Window 'Term-6', Flag 'Display character'
+W:6:3:0
+
+# Window 'Term-6', Flag 'Show visible monsters'
+W:6:4:0
+
+# Window 'Term-6', Flag 'Display messages'
+W:6:6:0
+
+# Window 'Term-6', Flag 'Display overhead view'
+W:6:7:1
+
+# Window 'Term-6', Flag 'Display monster recall'
+W:6:8:0
+
+# Window 'Term-6', Flag 'Display object recall'
+W:6:9:0
+
+# Window 'Term-6', Flag 'Display snap-shot'
+W:6:11:0
+
+# Window 'Term-6', Flag 'Display borg messages'
+W:6:14:0
+
+# Window 'Term-6', Flag 'Display borg status'
+W:6:15:0
+
+# Window 'Term-7', Flag 'Display inven/equip'
+W:7:0:0
+
+# Window 'Term-7', Flag 'Display equip/inven'
+W:7:1:0
+
+# Window 'Term-7', Flag 'Display character'
+W:7:3:0
+
+# Window 'Term-7', Flag 'Show visible monsters'
+W:7:4:0
+
+# Window 'Term-7', Flag 'Display messages'
+W:7:6:0
+
+# Window 'Term-7', Flag 'Display overhead view'
+W:7:7:0
+
+# Window 'Term-7', Flag 'Display monster recall'
+W:7:8:0
+
+# Window 'Term-7', Flag 'Display object recall'
+W:7:9:0
+
+# Window 'Term-7', Flag 'Display snap-shot'
+W:7:11:0
+
+# Window 'Term-7', Flag 'Display borg messages'
+W:7:14:0
+
+# Window 'Term-7', Flag 'Display borg status'
+W:7:15:0
+
+
+# Color redefinitions
+
+# Color 'White'
+V:1:0x07:0xFF:0xFF:0xFF
+
+# Color 'Slate'
+V:2:0x03:0x7D:0x76:0x74
+
+# Color 'Orange'
+V:3:0x0C:0xFF:0x77:0x00
+
+# Color 'Red'
+V:4:0x04:0xE3:0x25:0x25
+
+# Color 'Green'
+V:5:0x02:0x20:0x80:0x20
+
+# Color 'Blue'
+V:6:0x01:0x00:0xA0:0xF4
+
+# Color 'Umber'
+V:7:0x06:0x8E:0x45:0x00
+
+# Color 'Light Dark'
+V:8:0x08:0x70:0x70:0x70
+
+# Color 'Light Slate'
+V:9:0x0B:0xB9:0xC0:0xA8
+
+# Color 'Violet'
+V:10:0x05:0xFF:0x7D:0xCA
+
+# Color 'Yellow'
+V:11:0x0E:0xFF:0xE9:0x69
+
+# Color 'Light Red'
+V:12:0x0D:0xE6:0xC3:0x0F
+
+# Color 'Light Green'
+V:13:0x0A:0xA3:0xEA:0x61
+
+# Color 'Light Blue'
+V:14:0x09:0xA0:0xD9:0xFF
+
+# Color 'Light Umber'
+V:15:0x06:0xD7:0x8E:0x45
+

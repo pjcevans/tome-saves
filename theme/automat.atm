@@ -1,0 +1,311 @@
+[
+  {
+    "action": "destroy",
+    "condition": {
+      "conditions": [
+        {
+          "conditions": [
+            {
+              "tval": 15,
+              "type": "tval"
+            },
+            {
+              "tval": 16,
+              "type": "tval"
+            },
+            {
+              "tval": 17,
+              "type": "tval"
+            },
+            {
+              "tval": 18,
+              "type": "tval"
+            },
+            {
+              "tval": 19,
+              "type": "tval"
+            },
+            {
+              "tval": 21,
+              "type": "tval"
+            },
+            {
+              "tval": 22,
+              "type": "tval"
+            },
+            {
+              "tval": 23,
+              "type": "tval"
+            },
+            {
+              "tval": 24,
+              "type": "tval"
+            },
+            {
+              "tval": 30,
+              "type": "tval"
+            },
+            {
+              "tval": 31,
+              "type": "tval"
+            },
+            {
+              "tval": 32,
+              "type": "tval"
+            },
+            {
+              "tval": 33,
+              "type": "tval"
+            },
+            {
+              "tval": 34,
+              "type": "tval"
+            },
+            {
+              "tval": 35,
+              "type": "tval"
+            },
+            {
+              "tval": 36,
+              "type": "tval"
+            },
+            {
+              "tval": 37,
+              "type": "tval"
+            },
+            {
+              "tval": 40,
+              "type": "tval"
+            },
+            {
+              "tval": 45,
+              "type": "tval"
+            },
+            {
+              "tval": 46,
+              "type": "tval"
+            },
+            {
+              "tval": 55,
+              "type": "tval"
+            },
+            {
+              "tval": 65,
+              "type": "tval"
+            }
+          ],
+          "type": "or"
+        },
+        {
+          "conditions": [
+            {
+              "status": "average",
+              "type": "status"
+            },
+            {
+              "status": "good",
+              "type": "status"
+            },
+            {
+              "status": "bad",
+              "type": "status"
+            },
+            {
+              "status": "very bad",
+              "type": "status"
+            },
+            {
+              "status": "terrible",
+              "type": "status"
+            }
+          ],
+          "type": "or"
+        }
+      ],
+      "type": "and"
+    },
+    "module": "Theme",
+    "name": "Items"
+  },
+  {
+    "action": "destroy",
+    "condition": {
+      "conditions": [
+        {
+          "conditions": [
+            {
+              "tval": 21,
+              "type": "tval"
+            },
+            {
+              "tval": 22,
+              "type": "tval"
+            },
+            {
+              "tval": 23,
+              "type": "tval"
+            },
+            {
+              "tval": 24,
+              "type": "tval"
+            }
+          ],
+          "type": "or"
+        },
+        {
+          "conditions": [
+            {
+              "status": "excellent",
+              "type": "status"
+            }
+          ],
+          "type": "and"
+        }
+      ],
+      "type": "and"
+    },
+    "module": "Theme",
+    "name": "ExWeps"
+  },
+  {
+    "action": "pickup",
+    "condition": {
+      "conditions": [
+        {
+          "conditions": [
+            {
+              "tval": 12,
+              "type": "tval"
+            },
+            {
+              "tval": 14,
+              "type": "tval"
+            },
+            {
+              "tval": 15,
+              "type": "tval"
+            },
+            {
+              "tval": 16,
+              "type": "tval"
+            },
+            {
+              "tval": 17,
+              "type": "tval"
+            },
+            {
+              "tval": 18,
+              "type": "tval"
+            },
+            {
+              "tval": 19,
+              "type": "tval"
+            },
+            {
+              "tval": 20,
+              "type": "tval"
+            },
+            {
+              "tval": 30,
+              "type": "tval"
+            },
+            {
+              "tval": 31,
+              "type": "tval"
+            },
+            {
+              "tval": 32,
+              "type": "tval"
+            },
+            {
+              "tval": 33,
+              "type": "tval"
+            },
+            {
+              "tval": 34,
+              "type": "tval"
+            },
+            {
+              "tval": 35,
+              "type": "tval"
+            },
+            {
+              "tval": 36,
+              "type": "tval"
+            },
+            {
+              "tval": 37,
+              "type": "tval"
+            },
+            {
+              "tval": 38,
+              "type": "tval"
+            },
+            {
+              "tval": 39,
+              "type": "tval"
+            },
+            {
+              "tval": 40,
+              "type": "tval"
+            },
+            {
+              "tval": 45,
+              "type": "tval"
+            },
+            {
+              "tval": 55,
+              "type": "tval"
+            },
+            {
+              "tval": 65,
+              "type": "tval"
+            },
+            {
+              "tval": 66,
+              "type": "tval"
+            },
+            {
+              "tval": 67,
+              "type": "tval"
+            },
+            {
+              "tval": 70,
+              "type": "tval"
+            },
+            {
+              "tval": 71,
+              "type": "tval"
+            },
+            {
+              "tval": 72,
+              "type": "tval"
+            }
+          ],
+          "type": "or"
+        },
+        {
+          "status": "special",
+          "type": "status"
+        }
+      ],
+      "type": "and"
+    },
+    "module": "Theme",
+    "name": "Artifacts"
+  },
+  {
+    "action": "pickup",
+    "condition": {
+      "conditions": [
+        {
+          "tval": 102,
+          "type": "tval"
+        }
+      ],
+      "type": "and"
+    },
+    "module": "Theme",
+    "name": "Artifacts"
+  }
+]

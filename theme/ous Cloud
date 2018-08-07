@@ -1,0 +1,411 @@
+  [Theme 1.2.0 (ah, git) Character Sheet]
+
+ Name  : Dwirecred              Age                 21       STR:     29       
+ Sex   : Neuter                 Height              60       INT:     30       
+ Race  : Vampire RohanKnight    Weight              74       WIS:     30       
+ Class : Sorceror               Social Class         1       DEX:     21       
+ Body  : Player                                              CON:     29       
+ God   : Eru Iluvatar                                        CHR:     23       
+                                                                               
+ + To Melee Hit           3 Level             31    Death Points    -18/    32 
+ + To Melee Damage      -15 Experience    491071    Spell Points    652/   652 
+ + To Ranged Hit         13 Max Exp       491071    Sanity          346/   346 
+ + To Ranged Damage       6 Exp to Adv.   525000    Piety                16188 
+   AC                 18+83 Gold         1346813    Speed           Fast (+30) 
+                                                                               
+                         (Miscellaneous Abilities)                             
+ Fighting    : Bad          Perception  : Bad          Blows/Round:  3         
+ Bows/Throw  : Fair         Searching   : Poor         Shots/Round:  1         
+ Saving Throw: Very Good    Disarming   : Fair         Mel.dmg/Rnd:  3d4-45    
+ Stealth     : Bad          Magic Device: Heroic       Infra-Vision: 0 feet    
+                                                       Tactic:       coward    
+                                                       Explor:       running   
+                         (Character Background)                                
+          You are one of several children of a Serf.  You have brown           
+          eyes, straight brown hair, and a very dark complexion.               
+                                                                               
+                                                                               
+
+
+  [Miscellaneous information]
+
+ Joke monsters:        OFF
+ Maximize mode:        ON
+ Preserve Mode:        ON
+ Autoscum:             ON
+ Small Levels:         ON
+ Arena Levels:         ON
+ Always unusual rooms: OFF
+
+ Recall Depth:
+        Mirkwood: Level 33 (1650')
+        Angband: Level 67 (3350')
+        Barrow-Downs: Level 10 (500')
+        Orc Cave: Level 22 (1100')
+        The Old Forest: Level 13 (650')
+        The Land Of Rhun: Level 34 (1700')
+        The Withered Heath: Level 30 (1500')
+        a Lost Temple: Level 23 (1150')
+
+ Your body was a Player.
+ You have defeated 5549 enemies.
+ You found 2 of the relic pieces.
+ You saved Bree from a dreadful Nazgul.
+ You have completed 24 princess quests.
+ You have completed nine lost sword quests.
+
+ You started your adventure the 43rd Yavie of the 2890th year of the third age.
+ You ended your adventure the 5th Quelle of the 2890th year of the third age.
+ Your adventure lasted 19 days.
+
+     Your Attributes:
+You are dead, killed by a Great Worm of Thunder on level 67 of Angband.
+You can drain life from a foe.
+You can destroy walls.
+You can use rohir powers.
+You can see invisible creatures.
+You levitate just over the ground.
+You have free action.
+You have ESP.
+You are lucky.
+You have a firm hold on your life force.
+You are surrounded with a fiery aura.
+You are carrying a permanent light.
+You are resistant to acid.
+You are resistant to lightning.
+You are completely immune to fire.
+You are resistant to cold.
+You are resistant to poison.
+You are resistant to darkness.
+You are resistant to confusion.
+You are resistant to sonic attacks.
+You are resistant to chaos.
+You are resistant to nexus attacks.
+You are resistant to nether forces.
+You are completely fearless.
+Your eyes are resistant to blindness.
+Your constitution is sustained.
+Your dexterity is sustained.
+Your intelligence is affected by your equipment.
+Your wisdom is affected by your equipment.
+Your stealth is affected by your equipment.
+Your searching ability is affected by your equipment.
+Your digging ability is affected by your equipment.
+Your speed is affected by your equipment.
+
+
+                    adefkmnopsuxz{|@            
+        Add Int   : .........2......            
+        Add Wis   : .........2.....+            
+        Mul Mana  : ++.............+            
+        Add Stea. : ....5..3........            
+        Add Sear. : .....4...2......            
+        Add Tun.. : ..............6.            
+        Add Speed : .......3.......+            
+        Sust Str  : ................            
+        Sust Int  : ................            
+        Sust Wis  : ................            
+        Sust Dex  : ....+.+.........            
+        Sust Con  : ..........+.....            
+        Sust Chr  : ................            
+        Invisible : ................            
+        Mul life  : ................            
+        Sens Fire : ................            
+        Reflect   : ................            
+        Free Act  : ......+...+.....            
+        Hold Life : ...............+            
+        Res Acid  : .......++.......            
+        Res Elec  : ........+.......            
+        Imm Fire  : ..*.....+.......            
+        Res Cold  : ........+......+            
+        Res Pois  : ...............+            
+        Res Fear  : ......+.........            
+        Res Light : ......+.+.+.....            
+        Res Dark  : ........+......+            
+        Res Blind : .........+......            
+        Res Conf  : ....+...+.......            
+        Res Sound : ..+.............            
+        Res Shard : ................            
+        Res Neth  : ...............+            
+        Res Nexus : .......+........            
+        Res Chaos : ........+.......            
+        Res Disen : ................            
+        Aura Fire : ..+.............            
+        Levitate  : ...........+....            
+        Lite      : ..+.......+....+            
+        See Invis : .........+......            
+        Activate  : .....+.+.++.....            
+        Fly       : ...+............            
+
+ Corruption list:
+Vampiric Teeth:
+  Your teeth allow you to drain blood to feed yourself
+  However your stomach now only accepts blood.
+Vampiric Strength:
+  Your body seems somewhat dead
+  In this near undead state it has improved strength, constitution and intelligence
+  But reduced dexterity, wisdom and charisma.
+Vampire:
+  You are a Vampire. As such you resist cold, poison, darkness and nether.
+  Your life is sustained, but you cannot stand the light of the sun.
+
+Skills (points left: 43)
+          . Archery                              00.500 [0.000]
+ - Sneakiness                                    01.100 [0.900]
+          . Stealth                             -08.000 [0.400]
+          . Disarming                            01.000 [0.000]
+ - Magic                                         39.930 [1.000]
+          . Magic-Device                         30.500 [1.000]
+          . Spell-power                          00.000 [0.600]
+          . Sorcery                              36.700 [0.700]
+          . Mana                                 00.000 [0.900]
+                   . Fire                        00.000 [1.000]
+                   . Water                       00.000 [1.000]
+                   . Air                         00.000 [1.000]
+                   . Earth                       00.000 [1.000]
+          . Meta                                 00.000 [1.000]
+          . Conveyance                           00.000 [1.000]
+          . Divination                           00.000 [1.000]
+          . Temporal                             00.000 [1.000]
+          . Mind                                 00.000 [1.000]
+          . Nature                               00.000 [1.000]
+          . Necromancy                           30.600 [0.900]
+          . Runecraft                            00.000 [0.900]
+          . Thaumaturgy                          00.000 [0.900]
+ - Spirituality                                  03.500 [0.550]
+          . Prayer                               05.000 [0.500]
+ - Monster-lore                                  00.000 [0.500]
+          . Symbiosis                            01.700 [0.500]
+
+Abilities
+ * Perfect casting
+ * Undead Form
+
+
+  [Fates]
+
+You may meet a Snotling on level 1.
+You are fated to find a Ring of Weakness on level 1.
+You are fated to find The Dagger of Peregrin on level 7.
+You may meet a Butterfly on level 1.
+You may meet a Soldier ant on level 1.
+
+
+  [Character Equipment]
+
+a) a Mage Staff of Mana (1d4) (-5,-2)(40%)
+d) a Magical Small Metal Boomerang (3d4) (+3,+6)(20%)
+    It increases your mana capacity by 20%.  
+    It was given to you as a reward.
+e) a Blazing Ring of Sound Resistance
+    It provides light (radius 1) forever.  It provides immunity to fire.  
+    It provides resistance to sound.  It produces a fiery sheath.  
+    You found it in the remains of a Chaos drake on level 31 of Mirkwood.
+f) a Ring of Flying
+k) The Amulet of Faramir (+18,+0) [+8] (+5)
+    It increases your stealth by 5.  It sustains your dexterity.  It
+    provides resistance to confusion.  It cannot be harmed by acid, cold,
+    lightning or fire.  
+    You found it in the remains of a Dark dwarven warrior on level 22 of Orc
+    Cave.
+m) The Phial of Galadriel (+4)
+    It can be activated for light area (dam 2d15) every 10+d10 turns if it
+    is being worn. It provides light (radius 3) forever.  It increases 
+    your searching and luck by 4.  It cannot be harmed by acid, cold,
+    lightning or fire.  
+    You found it in the remains of a Dark dwarven lord on level 22 of Orc Cave.
+n) The Soft Leather Armour of Norog [4,+4]
+    It sustains your dexterity.  It provides immunity to paralysis.  It
+    makes you completely fearless.  It provides resistance to light.  It
+    cannot be harmed by acid, cold, lightning or fire.  
+    You found it in the remains of Amlach, son of Imlach on level 15 of Orc
+    Cave.
+o) The Cloak 'Colannon' [1,+15] (+3 to speed)
+    It can be activated for teleport (range 100) every 45 turns if it is
+    being worn. It increases your stealth and speed by 3.  It provides
+    resistance to acid and nexus.  It cannot be harmed by acid, cold,
+    lightning or fire.  
+    It was given to you as a reward.
+p) The Large Leather Shield of Celegorm [4,+20]
+    It provides resistance to acid, electricity, fire, cold, light, dark
+     and chaos.  It cannot be harmed by acid, cold, lightning or fire.  
+    You found it in the remains of a Young bronze dragon on level 31 of
+    Mirkwood.
+s) The Iron Helm 'Holhenneth' [5,+10] (+2)
+    It can be activated for detection every 55+d55 turns if it is being
+    worn. It increases your intelligence, wisdom and searching by 2.  It
+    provides resistance to blindness.  It allows you to see invisible
+    monsters.  It cannot be harmed by acid, cold, lightning or fire.  
+    It was given to you as a reward.
+u) The Set of Leather Gloves 'Cammithrim' [1,+10]
+    It can be activated for magic missile (2d6) every 2 turns if it is
+    being worn. It provides light (radius 1) forever.  It sustains your 
+    constitution.  It provides immunity to paralysis.  It provides
+    resistance to light.  It cannot be harmed by acid, cold, lightning or
+    fire.  
+    You found it lying on the floor of a special level.
+x) a Pair of Hard Leather Boots of Levitation [3,-1]
+z) (nothing)
+{) 60 Rounded Pebbles (1d2) (+0,+0)
+|) a Magical Orcish Pick of Digging (+6)
+
+
+  [Character Inventory]
+
+a) a Tome of Translocation
+b) 3 Books of Beginner Cantrips
+    
+c) a Spellbook of Noxious Cloud
+    
+d) a Potion of Strength
+e) a Potion of Constitution
+f) a Potion of Resistance
+g) a Wooden Rod of Trap Location (10/10)
+h) a Moonstone Rod of Capacity of Nothing (150/150)
+i) a Silver Rod of Recall (100/100)
+    
+j) a Fireproof Staff of Fiery Shield[6|22] (6 charges)
+k) a Ring of Critical Hits (+5% of critical hits)
+l) an Amulet of the Magi (-4,-4) (+4 to searching)
+m) The Scythe 'Avavir' (5d3) (+8,+8) [+10] (+3)
+n) (nothing)
+o) (nothing)
+p) (nothing)
+q) (nothing)
+r) (nothing)
+s) (nothing)
+t) (nothing)
+u) (nothing)
+v) (nothing)
+w) (nothing)
+
+
+  [Home Inventory - Bree ]
+
+a) a Spellbook of Greater Identify
+    
+b) a Parchment titled ``How to Win the Game''
+    It can be activated for heal 700 hit points every 100 turns.  
+    You found it in the remains of a Gnome priest on level 13 of Mirkwood.
+c) 6 Sprigs of Athelas
+d) a Potion of *Healing*
+e) 2 Potions of Restore Mana
+f) a Potion of Resistance
+g) a Golden Rod of Nothing (125/125)
+h) a Wand of Tidal Wave[7|24] (9 charges)
+i) a Wand of Ice Storm[3|27] of Plenty (14 charges)
+j) The Ring of Power of Uvatha the Horseman (+1)
+    It can be used to store a spell.  It increases your dexterity by 1.  
+    It makes you invisible.  It sustains your wisdom and constitution.  It
+    provides resistance to electricity, confusion and nether.  It allows
+    you to fly.  It speeds your regenerative powers.  It drains experience
+    .  It cannot be dropped while cursed.  It cannot be harmed by acid,
+    cold, lightning or fire.  
+    You found it in the remains of Uvatha the Horseman in the town of Bree .
+k) a Radiant Ring of Constitution (+3)
+l) a Rohirric Ring of Fear Resistance (+2 to speed)
+    It increases your speed by 2.  It makes you completely fearless.  
+    You found it in the remains of an Uruk on level 19 of Orc Cave.
+m) a Ring of Light and Darkness Resistance
+n) a Radiant Ring of Spell
+    It grants you the power of illuminate if it is being worn.  It
+    provides light (radius 5) forever.  It can be used to store a spell.  
+    It provides resistance to light.  
+    You found it in the remains of a Mountain ogre on level 34 of The Land Of
+    Rhun.
+o) a Dwarven Lantern of the Shadows
+    It provides light (radius 2) forever.  It makes you invisible.  It
+    provides resistance to light and dark.  It cannot be harmed by fire.  
+    You found it in the remains of a Black orc on level 18 of Mirkwood.
+p) The Anchor of Space-Time
+    It provides light (radius 1) forever.  It prevents the space-time
+    continuum from being disrupted.  It cannot be harmed by acid, cold,
+    lightning or fire.  
+    You found it in the remains of Lokkak, the Ogre Chieftain on level 34 of
+    The Land Of Rhun.
+q) The Pearl 'Nimphelos' (+1)
+    It grants you the power of dazzle if it is being worn.  It provides
+    light (radius 3) forever.  It increases your searching and infravision
+     by 1.  It cannot be harmed by acid, cold, lightning or fire.  
+    It was given to you as a reward.
+r) The Chain Mail of Arvedui (-2) [14,+15] (+2)
+    It increases your strength and charisma by 2.  It provides resistance 
+    to acid, electricity, fire, cold, shards and nexus.  It cannot be
+    harmed by acid, cold, lightning or fire.  
+    It was given to you as a reward.
+s) The Metal Brigandine Armour of the Rohirrim [19,+15] (+2)
+    It increases your strength, dexterity and speed by 2.  It makes you
+    completely fearless.  It provides resistance to acid, electricity, 
+    fire, cold, confusion, sound and chaos.  It cannot be harmed by acid,
+    cold, lightning or fire.  
+    It was given to you as a reward.
+t) a Dwarven Metal Cap of Intelligence [3,+1] (+4 to infravision)
+    It increases your intelligence, constitution and infravision by 4.  It
+    sustains your intelligence.  It provides resistance to fire.  It
+    allows you to sense the presence of trolls and dragons.  
+    It was given to you as a reward.
+u) a Light Crossbow of Numenor (x4) (-3,+2) (+1)
+    It increases your dexterity by 1.  It provides immunity to paralysis.  
+    It makes you completely fearless.  It provides resistance to poison
+     and dark.  It fires missiles with extra might.  It fires missiles
+    excessively fast.  
+    You found it in the remains of a Chaos drake on level 31 of Mirkwood.
+v) a Small Mithril Boomerang of the Maiar (2d5) (+9,+7) [+1]
+    It is especially deadly against trolls.  It is especially deadly
+    against giants.  It fights against evil with holy fury.  It provides
+    immunity to paralysis.  It makes you completely fearless.  It provides
+    resistance to electricity.  It allows you to see invisible monsters.  
+    It allows you to sense the presence of trolls, giants and evil beings.
+    It has been blessed by the gods.  It cannot be harmed by acid, cold,
+    lightning or fire.  
+    You found it in the remains of a Dark dwarven warrior on level 33 of
+    Mirkwood.
+
+
+  [Home Inventory - Caras Galadhon ]
+
+a) a Spellbook of Greater Identify
+    
+b) a Spellbook of Identify
+    
+c) The Bag of Tricks
+    It can be activated for something weird every 5 turns.  
+    You found it lying in a vault on level 30 of The Withered Heath.
+d) a Potion of Cure Critical Insanity
+e) 3 Potions of Healing
+f) a Potion of *Healing*
+g) 5 Potions of Resistance
+h) 9 Scrolls of Satisfy Hunger
+    
+i) a Silver Rod of Curing (100/100)
+j) a Silver Rod of Nothing (100/100)
+k) a Silver Rod of Nothing (100/100)
+l) The Wand of Digging of Thrain (17 charges)
+    
+    You found it in the remains of Azog, King of the Uruk-Hai on level 22 of
+    Orc Cave.
+m) a Ring of Slow Digestion
+n) a Ring of Shard Resistance
+o) a Ring of Chaos Resistance
+p) an Amulet of of Life(20%)
+    It increases your hit points by 20%.  It sustains your constitution.  
+    It provides resistance to life draining.  It drains mana.  
+    You found it lying in a vault on level 22 of The Withered Heath.
+q) The Star of Elendil (+1)
+    It can be activated for light (dam 2d15) & map area every 50+d50 turns
+     if it is being worn. It grants you the power of detect curses if it
+    is being worn.  It provides light (radius 4) forever.  It increases 
+    your speed by 1.  It provides resistance to life draining.  It allows
+    you to see invisible monsters.  It cannot be harmed by acid, cold,
+    lightning or fire.  
+    You found it lying in a vault on level 30 of The Withered Heath.
+r) The Soft Leather Armour of the Sandworm [30,+0] (+5 to stealth)
+    It increases your strength, stealth, infravision and ability to tunnel
+     by 5.  It provides resistance to acid, electricity, fire and poison.  
+    It allows you to sense the presence of animals.  It cannot be harmed
+    by acid, cold, lightning or fire.  
+    You found it in the remains of The Sandworm Queen on level 30 of The
+    Withered Heath.
+s) a Mage Staff of Spell (1d4) (+4,+4)
+
+
